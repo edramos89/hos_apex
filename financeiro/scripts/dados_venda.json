@@ -20,3 +20,27 @@
 
 -->> Usar cliente "Consumidor Final" em casos não identificados.
 
+CAIXA.LANCAMEN
+
+'CC' then 'CANCELAMENTO DE CUPOM'
+'CI' then 'CANCELAMENTO DE ITEM'
+'DV' then 'DEVOLUÇÃO À VISTA'
+'PG' then 'PAGAMENTO' 
+'XX' then 'LEITURA X'
+'DC' then 'DEVOLUÇÃO CONVÊNIO'
+'TO' then 'TROCA DE OPERADOR'
+'DF' then 'DEVOLUÇÃO FORNECEDOR'
+'VR' then 'VENDA POR CREDIÁRIO'
+'CV' then 'CANCELAMENTO DE VENDA'
+'SA' then 'SANGRIA DE CAIXA'
+'SU' then 'SUPRIMENTO DE CAIXA'
+'RC' then 'RECEBIMENTO CONVÊNIO'
+'TV' then 'ACERTO DE TELE-ENTREGA'
+'AU' then 'AUTENTICAÇÃO' 
+'DP' then 'DEVOLUÇÃO A PRAZO'
+'TS' then 'TRANSFERÊNCIA DE SAÍDA'
+'TE' then 'TRANSFERÊNCIA DE ENTRADA'
+'PB' then 'RECEBIMENTO BANCÁRIO'
+'EX' then 'EXTORNO'
+'VI' then 'VINCULADO'
+'ZZ' then 'REDUÇÃO Z'
